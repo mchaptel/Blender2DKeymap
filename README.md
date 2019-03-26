@@ -2,6 +2,16 @@
 A keymap close to 2D industry standards for blender 2.8
 
 
+-------------------------------------------------
+
+Installation instructions:
+
+From the settings window, in the keymap section choose "import keymap" and load the .py file.
+To setup your interface as in the startup file, open the .blend file with blender and choose "File>Save Startup File".
+
+-------------------------------------------------
+
+
 I have been working on a 2D friendly keymap, and I wanted to submit it for feedback.
 
 The idea behind this is to make blender and Grease Pencil a more welcoming experience for people who come from a 2D background, and to give them some shortcuts that will stay close to their expectations. I have been using it quite a bit and while I'm still always adding stuff and tweaking, I think I can submit it so people can tell me what they would like to find in something like this.
