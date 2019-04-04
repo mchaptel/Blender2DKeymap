@@ -36,9 +36,9 @@ Here are some of the main features:
 
 * ctrl+A selects all, ctrl+D unselects all.
 
-* for grease pencil objects; B for draw mode, L for edit mode (kind of like the lasso tool in 2D), E for sculpt (as in 2.79), Tab always brings back to Object Mode. Keys for modes because in 2D, modes are tools.
+* for grease pencil objects; B for draw mode, E for edit mode (kind of like the lasso tool in 2D), S for sculpt (as in 2.79), Esc always brings back to Object Mode, and Tab brings up pie menu. Keys for modes because in 2D, modes are tools.
 
-* Same sort of things for the sculpt mesh tools because these are the more "traditional artist" modes and they go hand in hand: L for edit mode, E for sculpt, and B for texture paint.
+* Same sort of things for the sculpt mesh tools because these are the more "traditional artist" modes and they go hand in hand: E for edit mode, S for sculpt, and B for texture paint.
 
 * Arrows to move strokes in increments (this one is still buggy because of issues with blender, I'm waiting to get a response)
 
@@ -52,7 +52,7 @@ The main questions I still have :
 
 * no shortcut I can find to extend a keyframe duration?
 
-* I'm tempted to go B for draw, E for edit mode and S for sculpt but S is taken by scale. I don't know if this would be work removing? I've set transform tool to Ctrl+S and maybe we can use that instead... G-R-S is just such a useful set of shortcuts.
+* G for Grab tool, R for rotate tool, Q for scale (S is taken by Scuplt)
 
 
 I'm not very familiar with Github but here is a repository I've set up that also includes a startup file with a good GreasePencil setup.
