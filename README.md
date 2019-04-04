@@ -9,6 +9,10 @@ Installation instructions:
 From the settings window, in the keymap section choose "import keymap" and load the .py file.
 To setup your interface as in the startup file, open the .blend file with blender and choose "File>Save Startup File".
 
+Startup file look:
+
+https://imgur.com/a/c4f1VI0
+
 -------------------------------------------------
 
 
