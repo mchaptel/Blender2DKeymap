@@ -36,7 +36,7 @@ Here are some of the main features:
 
 * ctrl+A selects all, ctrl+D unselects all.
 
-* for grease pencil objects; B for draw mode, E for edit mode (kind of like the lasso tool in 2D), S for sculpt (as in 2.79), Esc always brings back to Object Mode, and Tab brings up pie menu. Keys for modes because in 2D, modes are tools.
+* for grease pencil objects; B for draw mode, E for edit mode, S for sculpt, Esc always brings back to Object Mode, and Tab brings up pie menu. Keys for modes because in 2D, modes are tools.
 
 * Same sort of things for the sculpt mesh tools because these are the more "traditional artist" modes and they go hand in hand: E for edit mode, S for sculpt, and B for texture paint.
 
