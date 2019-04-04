@@ -42,17 +42,31 @@ Here are some of the main features:
 
 * Arrows to move strokes in increments (this one is still buggy because of issues with blender, I'm waiting to get a response)
 
+* F6 creates duplicate keyframe, F7 blank keyframe
+
+* relevant first letter shortcuts for sculpt tools that are easy to remember (visible from hovering the tools)
+
+* right click erases grease pencil and inverts tool in sculpt
+
+* double click selects linked
+
+* A for add menu
+
+* alt+right click for project strokes menu, alt+shift+right click for GP lock axis 
+
+* Create GP interpolation from any edit mode with ctrl+shift+E
+
 * Since this is based on AZERTY layouts, "," and ";" change frames, ":" and "!" go from key to key to easily flip drawings
 
 * Move objects and keys with a right click tweak to avoid conflict with selection and tools
 
+* G for Grab tool, R for rotate tool, Q for scale (S is taken by Scuplt)
+
+* Right click menus on click action to free up right click tweaks.
+
+
 Many other improvements here and there.
 
-The main questions I still have :
-
-* no shortcut I can find to extend a keyframe duration?
-
-* G for Grab tool, R for rotate tool, Q for scale (S is taken by Scuplt)
 
 
 I'm not very familiar with Github but here is a repository I've set up that also includes a startup file with a good GreasePencil setup.
