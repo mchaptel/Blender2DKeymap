@@ -13,7 +13,7 @@ Startup file look:
 
 
 
-[Imgur](https://i.imgur.com/j1cZ6SB.png)
+![Imgur](https://i.imgur.com/j1cZ6SB.png)
 
 -------------------------------------------------
 
