@@ -11,7 +11,9 @@ To setup your interface as in the startup file, open the .blend file with blende
 
 Startup file look:
 
-https://imgur.com/a/c4f1VI0
+
+
+![My image]https://imgur.com/a/c4f1VI0
 
 -------------------------------------------------
 
